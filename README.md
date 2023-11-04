@@ -11,11 +11,11 @@ Esta aplicación web ha sido realizada con React
 
 
 ### Tabla de Contenidos
--[Instalación](#instalación);
--[Uso](#uso)
--[Requisitos Técnicos](#requisitos)
--[Características Adicionales](#características)
--[Contacto](#contacto)
+-[Instalación](#instalación)  
+-[Uso](#uso)  
+-[Requisitos Técnicos](#requisitos)  
+-[Características Adicionales](#características)  
+-[Contacto](#contacto)  
 
 
 ### Instalación
