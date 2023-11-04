@@ -25,7 +25,6 @@ function App() {
   //Hago uso del UseEffect para llamar a la API, con una dependencia para que cambie según los datos vayan variando
   useEffect(() => {
     (async function () {
-      console.log(url)
       let response = await fetch(url).then((res) => res.json());
       //Almaceno por separado la info para controlar la paginación
       setInfoPage(response.info);
@@ -38,7 +37,6 @@ function App() {
   
   const handleClick = () => {
     let next = infoPage.next;
-    console.log(next)
     // El botón "Cargar Más" estará siempre visible hasta que la API nos entregue la última página, ya que el valor de next === null
     next === null ? (setShowButton(false)) : (setPage(page+1));
   }
@@ -53,7 +51,6 @@ function App() {
         page === null ? ("") : (
           <div className='App-container'>
             <div className='App-grid'>
-              {console.log(characters)}
             {characters.map((character) => {
                 return <Card key={character.id}
                   name={character.name}

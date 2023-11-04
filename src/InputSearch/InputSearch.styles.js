@@ -17,12 +17,9 @@ const InputSearchStyle = styled.input`
     &::-webkit-input-placeholder { color:#538897; } /* WebKit */
     &::-moz-placeholder { color: #538897; } /* Firefox 19+ */
     
-
     &:focus {
         border: .16em solid #61dafb;
     }
-
-    
 `;
 
 export default InputSearchStyle;
