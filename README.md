@@ -45,7 +45,7 @@ npm start
 Se abrirá una ventana en tu navegador predeterminado con el proyecto.
 
 
-### Requisitos Técnicos
+### Requisitos
 
 #### Conexión a la API
 La aplicación se conecta a la API de "Rick y Morty" (https://rickandmortyapi.com/documentation) para obtener datos actualizados de los personajes de la serie. Esta petición de datos se realiza mediante el hook UseEffect de React y el uso de fetch.
@@ -65,7 +65,7 @@ Permite definir el tamaño de fuente de un elemento de manera dinámica, mejora 
 Permite que los elementos se adapten de manera fluida y más eficiente a diferentes tamaños de pantalla y dispositivos y crear diseños responsive que escalan de manera flexible y proporcional.
 
 
-### Características Adicionales
+### Características
 Se han añadido además las dos opciones de extra a la aplicación:
 
 Búsqueda de Personajes: He implementado la funcionalidad de búsqueda, permitiendo a los usuarios encontrar personajes en tiempo real a medida que escriben en el campo de búsqueda.
