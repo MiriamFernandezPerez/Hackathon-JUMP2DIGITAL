@@ -18,7 +18,6 @@ Esta aplicación web ha sido realizada con React
 -[Contacto](#contacto)
 
 
-
 ### Instalación
 1 - Clona este repositorio:
 ```bash
