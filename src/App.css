@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+    text-align: center;
+}
+  
+h2 {
+  font-size: calc(1em + 1vw);
+  font-weight: bolder;
+  color: #FCFCD4;
+  margin: 0.8em;
+}
+
+.App-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4em;
+}
+
+.App-grid {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 1200px;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+}
+
+.estado {
+	background: #353535;
+	display: inline-flex;
+  justify-content: center;
+  align-items: center;
+	color: #dbf6e9;
+	padding: 0.4em .8em;
+	border-radius: 2.5em;
+	width: 80%;
+  margin: .3em auto;
+	align-items: center;
+	column-gap: 1em;
+  position: relative;
+  bottom: 0;
+}
+
+.estado span {
+	display: block;
+	height: .8em;
+	width: .8em;
+	border-radius: 50%;
+}
+
+.Alive{
+  background: #31A703;
+}
+
+.Dead{
+  background: #ff0000;
+}
+
+.unknown{
+  background: #eeeeee;
+}
+
+@media only screen and (max-width: 479px) {
+  .App-grid {
+    width: 90%;
+    gap: 1em;
+  }
+  .estado {
+    width: 70%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .App-grid {
+    width: 80%;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.5em;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .App-grid {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}

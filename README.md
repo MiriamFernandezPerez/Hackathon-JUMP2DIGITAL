@@ -1,1 +1,2 @@
-# Hackathon-JUMP2DIGITAL
+#Hackathon-JUMP2DIGITAL - API Rick & Morty
+
