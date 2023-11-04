@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hackathon-JUMP2DIGITAL/static/css/main.8b22bf1d.css",
+    "main.js": "/Hackathon-JUMP2DIGITAL/static/js/main.a87d45ed.js",
+    "static/media/logo.jpg": "/Hackathon-JUMP2DIGITAL/static/media/logo.7c8a4a1e5ba026f040b9.jpg",
+    "index.html": "/Hackathon-JUMP2DIGITAL/index.html",
+    "main.8b22bf1d.css.map": "/Hackathon-JUMP2DIGITAL/static/css/main.8b22bf1d.css.map",
+    "main.a87d45ed.js.map": "/Hackathon-JUMP2DIGITAL/static/js/main.a87d45ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b22bf1d.css",
+    "static/js/main.a87d45ed.js"
+  ]
+}
