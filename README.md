@@ -49,10 +49,10 @@ Se abrirá una ventana en tu navegador predeterminado con el proyecto.
 #### Conexión a la API
 La aplicación se conecta a la API de "Rick y Morty" (https://rickandmortyapi.com/documentation) para obtener datos actualizados de los personajes de la serie. Esta petición de datos se realiza mediante el hook UseEffect de React y el uso de fetch.
 
-####Estilo y Diseño
+#### Estilo y Diseño
 Se ha utilizado CSS para dar estilo a los aspectos generales de la aplicación y styled-components para los aspectos específicos de cada uno de los componentes que componen la aplicación.
 
-####Responsive
+#### Responsive
 La aplicación es completamente responsiva, asegurando que se vea y funcione de manera óptima en dispositivos móviles y de escritorio. He utilizado una combinación de flexbox y grid, tamaños de letra con calc `(1em + 1vw)` y medias en em y % para la adaptabilidad. 
 - Grid
 Se ha utilizado para el manejo rápido de los "Cards" de los personajes, especificándo la cantidad de cards por tamaño de dispositivo mediante el mediaqueries.
@@ -64,7 +64,7 @@ Permite definir el tamaño de fuente de un elemento de manera dinámica, mejora 
 Permite que los elementos se adapten de manera fluida y más eficiente a diferentes tamaños de pantalla y dispositivos y crear diseños responsive que escalan de manera flexible y proporcional.
 
 
-###Características Adicionales
+### Características Adicionales
 Se han añadido además las dos opciones de extra a la aplicación:
 
 Búsqueda de Personajes: He implementado la funcionalidad de búsqueda, permitiendo a los usuarios encontrar personajes en tiempo real a medida que escriben en el campo de búsqueda.
@@ -72,6 +72,6 @@ Búsqueda de Personajes: He implementado la funcionalidad de búsqueda, permitie
 Botón de Cargar Más: He implementado un botón que realiza una nueva petición a la API si el usuario realiza scroll en la aplicación y desea ver más personajes. Por cada petición se añaden 20 personajes más a la vista.
 
 
-###Contacto
+### Contacto
 Miriam Fernández Pérez
 mirindaww@hotmail.com
