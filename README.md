@@ -73,5 +73,5 @@ Botón de Cargar Más: He implementado un botón que realiza una nueva petición
 
 
 ### Contacto
-Miriam Fernández Pérez
-mirindaww@hotmail.com
+Miriam Fernández Pérez | mirindaww@hotmail.com
+Barcelona Noviembre, 2023.
