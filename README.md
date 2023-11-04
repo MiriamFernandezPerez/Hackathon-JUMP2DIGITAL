@@ -6,7 +6,7 @@ Este proyecto consiste en el desarrollo de una aplicación web que muestra infor
 Esta aplicación web ha sido realizada con React
 
 
-### Captura de Pantalla / Demo
+### Captura de Pantalla / Demostración
 <img src="rickandmorty.jpg" alt="Rick & Morty App">
 
 
