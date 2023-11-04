@@ -7,7 +7,7 @@ Esta aplicación web ha sido realizada con React
 
 
 ### Captura de Pantalla / Demo
-[Inserta una captura de pantalla o un enlace a una demostración en vivo si es relevante]
+<img src="rickandmorty.jpg" alt="Rick & Morty App">
 
 
 ### Tabla de Contenidos
