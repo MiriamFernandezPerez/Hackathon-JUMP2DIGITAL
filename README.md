@@ -9,6 +9,9 @@ Esta aplicación web ha sido realizada con React
 ### Captura de Pantalla / Demostración
 <img src="rickandmorty.jpg" alt="Rick & Morty App">
 
+### Link a Aplicación
+`https://miriamfernandezperez.github.io/Hackathon-JUMP2DIGITAL/`
+
 
 ### Tabla de Contenidos
 -[Instalación](#instalación)  
